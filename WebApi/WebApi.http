@@ -1,0 +1,9 @@
+@WebApi_HostAddress = http://localhost:5240
+
+###
+POST {{WebApi_HostAddress}}/orders/orchestration
+Accept: application/json
+
+###
+POST {{WebApi_HostAddress}}/orders/choreography
+Accept: application/json

@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebApi\\WebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "SagaOrchestrationWorker\\SagaOrchestrationWorker.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SagaChoreographyWorker\\SagaChoreographyWorker.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

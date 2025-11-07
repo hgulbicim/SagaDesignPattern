@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SagaChoreographyWorker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

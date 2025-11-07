@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZ55FKqMhLo=",
+  "success": true,
+  "projectFilePath": "/Users/hgulbicim/Downloads/Resilience & Saga Patterns/SagaPattern/Events/Shared.Events.csproj",
+  "expectedPackageFiles": [
+    "/Users/hgulbicim/.nuget/packages/masstransit/8.5.4/masstransit.8.5.4.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/masstransit.abstractions/8.5.4/masstransit.abstractions.8.5.4.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0/microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.diagnostics.abstractions/9.0.0/microsoft.extensions.diagnostics.abstractions.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/9.0.0/microsoft.extensions.diagnostics.healthchecks.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/9.0.0/microsoft.extensions.diagnostics.healthchecks.abstractions.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0/microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.hosting.abstractions/9.0.0/microsoft.extensions.hosting.abstractions.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0/microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.options/9.0.0/microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "/Users/hgulbicim/.nuget/packages/microsoft.extensions.primitives/9.0.0/microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
